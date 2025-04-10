@@ -1,5 +1,2 @@
-# Ignore everything in this folder
-*
-
-# Except this .gitignore file
-!.gitignore
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
