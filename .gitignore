@@ -139,4 +139,6 @@ dmypy.json
 # add secret keys or API keys here
 configs/secrets.yaml
 
-
+archive*.zip
+*.pkl
+*.h5
