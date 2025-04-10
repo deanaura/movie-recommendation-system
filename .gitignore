@@ -142,3 +142,4 @@ configs/secrets.yaml
 archive*.zip
 *.pkl
 *.h5
+*.zip
